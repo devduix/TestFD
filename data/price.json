@@ -1,0 +1,22 @@
+{
+    "bayi": {
+        "old_price": 19900,
+        "new_price": 14900,
+        "user": 938
+    },
+    "pelajar": {
+        "old_price": 46900,
+        "new_price": 23450,
+        "user": 4168
+    },
+    "personal": {
+        "old_price": 58900,
+        "new_price": 38900,
+        "user": 10017
+    },
+    "bisnis": {
+        "old_price": 109900,
+        "new_price": 65900,
+        "user": 3552
+    }
+}

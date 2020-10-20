@@ -1,0 +1,73 @@
+{
+    "tool": [
+        {
+            "url": "assets/svg/Hosting_zendguard.svg",
+            "caption": "PHP Zend Guard Loader"
+        },
+        {
+            "url": "assets/svg/Hosting_composer.svg",
+            "caption": "PHP Composer"
+        },
+        {
+            "url": "assets/svg/Hosting_ioncube.svg",
+            "caption": "PHP IonCube Loader"
+        }
+    ],
+    "feature": [
+        {
+            "url": "assets/svg/Hosting_PHP_Semua_Versi.svg",
+            "caption": "PHP Semua Versi",
+            "desc": "Pilih mulai dari versi PHP 5.3 s/d PHP 7. Ubah sesuka Anda!"
+        },
+        {
+            "url": "assets/svg/Hosting_MySQL.svg",
+            "caption": "MySQL Versi 5.6",
+            "desc": "Nikmati MySQL versi terbaru, tercepat dan kaya akan fitur."
+        },
+        {
+            "url": "assets/svg/Hosting_CPanel.svg",
+            "caption": "Panel Hosting cPanel",
+            "desc": "Kelola website dengan panel canggih yang familiar dihati Anda."
+        },
+        {
+            "url": "assets/svg/Hosting_garansi_uptime.svg",
+            "caption": "Garansi Uptime 99.9%",
+            "desc": "Data center yang mendukung kelangsungan website Anda 24/7."
+        },
+        {
+            "url": "assets/svg/Hosting_InnoDB.svg",
+            "caption": "Database InnoDB Unlimited",
+            "desc": "Jumlah dan ukuran database yang tumbuh sesuai kebutuhan Anda."
+        },
+        {
+            "url": "assets/svg/Hosting_MySQL_remote.svg",
+            "caption": "Wildcard Remote MySQL",
+            "desc": "Mendukung s/d 25 max_user_connections dan 100_maxconnections."
+        }
+    ],
+    "social_media": [
+        {
+            "url": "assets/svg/social media/facebook-square-color.svg",
+            "number": 80000
+        },
+        {
+            "url": "assets/svg/social media/twitter-square-color.svg",
+            "number": 450
+        },
+        {
+            "url": "assets/svg/social media/google-plus.svg",
+            "number": 1900
+        }
+    ],
+    "payment": [
+        "assets/svg/payments/logo-bca-bordered.svg",
+        "assets/svg/payments/mandiriclickpay.svg",
+        "assets/svg/payments/logo-bni-bordered.svg",
+        "assets/svg/payments/visa.svg",
+        "assets/svg/payments/mastercard.svg",
+        "assets/svg/payments/atmbersama.svg",
+        "assets/svg/payments/permatabank.svg",
+        "assets/svg/payments/prima.svg",
+        "assets/svg/payments/alto.svg"
+    ]
+}

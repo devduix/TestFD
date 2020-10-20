@@ -1,0 +1,376 @@
+
+html,body{
+    overflow-x: hidden;
+}
+
+body {
+    font-family: Montserrat-Light;
+}
+
+.nav_hr {
+    margin: 0px;
+}
+
+.navbar_1 {
+    padding-top: 0px;
+    font-size: 13px;
+    font-family: Roboto-Regular;
+}
+
+.navbar_1 .promo {
+    font-size: 12px;
+    font-family: Roboto-Regular;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #333;
+    padding-right: 12px;
+}
+
+.navbar_2 .navbar-brand img {
+    width: 200px;
+}
+
+.promo_php {
+    margin: 50px 0px;
+    opacity: 0.8;
+}
+
+.promo_php h1 {
+    font-family: Montserrat-Bold;
+}
+
+.promo_php i {
+    color: #16b916;
+}
+
+.promo_tool {
+    margin-top: 50px;
+}
+
+.promo_tool .icon_feature_1 {
+    height: 180px;
+    display: inline-flex;
+}
+
+.promo_paket {
+    margin-top: 50px;
+    opacity: 0.8;
+}
+
+.promo_paket h3 {
+    font-family: Montserrat-Bold;
+}
+
+.jenis_paket {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.jenis_paket .col-sm-3 {
+    padding: 0px;
+}
+
+.paket_item {
+    border: solid 0.1px #eee;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.paket_item div {
+    border-bottom: solid 0.1px #eee;
+}
+
+.paket_item .title, .paket_item .price, .paket_item .user, .paket_item .feature {
+    padding: 10px;
+}
+
+.paket_item p, .paket_item h4 {
+    margin: 0px;
+}
+
+.paket_item .title h4 {
+    font-family: Montserrat-Bold;
+}
+
+.paket_item .user, .paket_item .feature {
+    font-family: Roboto-Regular;
+}
+
+.paket_item .price  .old_price {
+    text-decoration-line: line-through;
+}
+
+.paket_item .price .new_price {
+    vertical-align: text-top;
+}
+
+.paket_item .price .new_price span {
+    font-family: Montserrat-Bold;
+    font-size: 50px;
+}
+
+.paket_item .feature {
+    border-bottom: none;
+}
+
+.paket_item .feature p {
+    margin-bottom: 10px;
+}
+
+.paket_primary {
+    border: solid 0.1px #007bff;
+}
+
+.paket_primary div {
+    border-bottom: transparent;
+}
+
+.paket_primary .title, .paket_primary .price {
+    background-color: #007bff;
+    color: white;
+}
+
+.paket_primary .user {
+    background-color: #056ede;
+    color: white;
+}
+
+.btn_paket {
+    border: solid 2px;
+    border-radius: 50px;
+    font-family: Montserrat-Bold;
+    padding: 10px 25px;
+    margin: 30px 0px;
+}
+
+.promo_spec {
+    margin-top: 100px;
+}
+
+.promo_spec table tbody tr td {
+    font-size: 14px;
+    text-align: center;
+}
+
+.promo_spec tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+
+.promo_spec i {
+    float: left;
+    color: #16b916;
+}
+
+.hr_paket {
+    width: 100px;
+    border-width: 5px;
+}
+
+.fitur_paket {
+    margin-top: 50px;
+}
+
+.fitur_paket .fitur_item {
+    margin-top: 50px;
+    opacity: 0.9;
+}
+
+.fitur_paket .fitur_item h5 {
+    font-family: Montserrat-Bold;
+}
+
+.fitur_paket img {
+    width: 60px;
+    margin: 20px;
+}
+
+.promo_laravel {
+    margin-top: 50px;
+    opacity: 0.8;
+    border-bottom: solid 1px lightgrey;
+}
+
+.promo_laravel .caption p {
+    font-size: 19px;
+}
+
+.promo_laravel h3 {
+    margin-bottom: 30px;
+}
+
+.promo_laravel .desc p {
+    font-size: 15px;
+}
+
+.promo_laravel i {
+    color: #16b916;
+}
+
+.promo_laravel small {
+    font-size: 12px;
+}
+
+.modul_info h3 {
+    margin: 50px 0px;
+}
+
+.modul_info ul {
+    list-style: none;
+}
+
+.promo_linux .row {
+    margin-top: 50px;
+}
+
+.promo_linux .caption {
+    padding-right: 45px;
+}
+
+.promo_linux .desc {
+    margin-top: 20px;
+    font-family: Roboto-Light;
+    padding-right: 45px;
+}
+
+.promo_linux img {
+    margin-top: 50px;
+}
+
+.social_media {
+    background-color: #eee;
+}
+
+.social_media .row p {
+    margin: 30px 0px;
+}
+
+.social_media .icon_social_media {
+    margin: 30px 0px;
+}
+
+.social_media .icon_social_media img {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.social_media .icon_social_media span {
+    border: solid 1px lightgrey;
+    border-radius: 5px;
+    color: grey;
+    font-size: 12px;
+    padding: 7px 15px;
+}
+
+.support_call {
+    background-color: #2da2ef;
+    color: white;
+}
+
+.support_call .contact_info {
+    padding: 60px 0px;
+}
+
+.support_call .btn_paket {
+    border-color: white;
+    color: white;
+    margin: 0px;
+}
+
+.web_map {
+    background-color: #333;
+    font-size: 13px;
+}
+
+.web_map .title {
+    color: #8d8d8d;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Roboto-Regular;
+}
+
+.web_map .list_info {
+    margin-bottom: 40px;
+}
+
+.web_map .list_info p {
+    color: #d7d7d7;
+    margin-bottom: 3px;
+    font-family: Roboto-Regular;
+}
+
+.web_map .list_info p a {
+    color: #d7d7d7;
+}
+
+.web_map .list_info .form_subscribe div {
+    background-color: white;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.web_map .list_info .form_subscribe p {
+    font-family: Roboto-Light;
+    color: #8d8d8d;
+}
+
+.web_map .list_info .form_subscribe input {
+    border-radius: 50px;
+    border: none;
+    margin: 5px;
+}
+
+.web_map .list_info .form_subscribe button {
+    border-radius: 50px;
+    margin: 5px;
+}
+
+.web_map .icon_social_media_circle {
+    margin-top: 80px;
+    margin-right: 25px;
+    border: solid 2px white;
+    border-radius: 50%;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+.web_map .icon_social_media_circle i {
+    margin: auto;
+}
+
+.web_map .pay_type {
+    margin: 20px 0px;
+}
+
+.web_map .pay_type img {
+    width: 80px;
+    margin-right: 10px;
+}
+
+.web_map .pay_type p {
+    margin: 20px 0px;
+    font-family: Roboto-Light;
+    color: #8d8d8d;
+}
+
+.web_footer {
+    padding: 20px 0px;
+    background-color: #333;
+    color: #d7d7d7;
+}
+
+.web_footer p {
+    font-size: 12px;
+    font-family: Roboto-Light;
+    margin-bottom: 3px;
+}
+
+.web_footer .hr_footer {
+    margin: 0px;
+    padding-top: 20px;
+    border-top: solid 1px #222;
+}
